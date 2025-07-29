@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1753684279 source:c:\users\andremutoke\documents\stage\jeux\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utiles.h"
+	"deplacement.h"
+
+1753684331 c:\users\andremutoke\documents\stage\jeux\utiles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"deplacement.h"
+
+1753622701 c:\users\andremutoke\documents\stage\jeux\deplacement.h
+
