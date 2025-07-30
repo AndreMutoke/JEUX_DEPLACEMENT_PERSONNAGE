@@ -7,7 +7,7 @@
 int main()
 {
     int startGame = -1;
-    int finJeux = 0; // Donc le jeux n'est pas arrivé à la fin
+    int finJeux = 0; // Donc le jeux n'est pas arrivï¿½ ï¿½ la fin
     char mot[TAILLEMOT];
 
     startGame = afficherMenu();
